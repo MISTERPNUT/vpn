@@ -20,6 +20,15 @@
     }, {
       "name": "TH AIS-AisPlay_MC-2",
       "content": "vless://09c956db-5d0e-48c0-b25e-8101151d22a0@mcloud-nut-3.thai-vpn.com:8080/?encryption=none&flow=&host=speedtest.net&type=tcp&headerType=http"
+    }, {
+      "name": "TH TRUE-NoPRO_MC-3",
+      "content": "vless://675f5be3-d2e9-4764-991c-5be6e192ae79@104.18.10.161:80/?type=ws&encryption=none&host=mcloud-nut-4.thai-vpn.com&path=%2Fray"
+    }, {
+      "name": "TH DTAC-Line_MC-3",
+      "content": "vless://675f5be3-d2e9-4764-991c-5be6e192ae79@mcloud-nut-4.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH AIS-AisPlay_MC-3",
+      "content": "vless://675f5be3-d2e9-4764-991c-5be6e192ae79@mcloud-nut-4.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }	
   ]
 }
