@@ -38,5 +38,6 @@
     }, {
       "name": "TH AIS-AisPlay_CAT",
       "content": "vless://caac5217-dc49-4781-a504-5e9d2cf14600@iris-nut-1.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    }
   ]
 }
