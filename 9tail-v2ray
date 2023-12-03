@@ -29,6 +29,14 @@
     }, {
       "name": "TH AIS-AisPlay_MC-3",
       "content": "vless://675f5be3-d2e9-4764-991c-5be6e192ae79@mcloud-nut-4.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    }	
+    }, {
+      "name": "TH TRUE-NoPRO_CAT",
+      "content": "vless://caac5217-dc49-4781-a504-5e9d2cf14600@104.18.10.161:80/?type=ws&encryption=none&host=iris-nut-1.thai-vpn.com&path=%2Fray"
+    }, {
+      "name": "TH DTAC-Line_CAT",
+      "content": "vless://caac5217-dc49-4781-a504-5e9d2cf14600@iris-nut-1.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH AIS-AisPlay_CAT",
+      "content": "vless://caac5217-dc49-4781-a504-5e9d2cf14600@iris-nut-1.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
   ]
 }
