@@ -1,10 +1,13 @@
 {
-  "version": 1.08,
+  "version": 1.09,
   "message": "ดึงข้อมูลสำเร็จแล้ว กด ยืนยัน",
   "data": [
     {
       "name": "TH TRUE-NoPRO_MC-1",
       "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@104.18.10.161:80/?type=ws&encryption=none&flow=&host=mcloud-nut-2.misterpnut.uk&path=%2Fray"
+    }, {
+      "name": "TH DTAC-NoPRO_MC-1",
+      "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@dtac.ddnsgeek.com:80/?type=ws&encryption=none&flow=&host=mcloud-nut-2.misterpnut.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-Line_MC-1",
       "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@mcloud-nut-2.misterpnut.uk:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
@@ -15,6 +18,9 @@
       "name": "TH TRUE-NoPRO_MC-2",
       "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@104.18.10.161:80/?type=ws&encryption=none&flow=&host=mcloud-nut-3.misterpnut.uk&path=%2Fray"
     }, {
+      "name": "TH DTAC-NoPRO_MC-2",
+      "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@dtac.ddnsgeek.com:80/?type=ws&encryption=none&flow=&host=mcloud-nut-3.misterpnut.uk&path=%2Fray"
+    }, {
       "name": "TH DTAC-Line_MC-2",
       "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@mcloud-nut-3.misterpnut.uk:11111/?encryption=none&flow=&host=cc.naver.com&type=tcp&headerType=http"
     }, {
@@ -24,6 +30,9 @@
       "name": "TH TRUE-NoPRO_MC-3",
       "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@104.18.10.161:80/?type=ws&encryption=none&host=mcloud-nut-4.misterpnut.uk&path=%2Fray"
     }, {
+      "name": "TH DTAC-NoPRO_MC-3",
+      "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=mcloud-nut-4.misterpnut.uk&path=%2Fray"
+    }, {
       "name": "TH DTAC-Line_MC-3",
       "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@mcloud-nut-4.misterpnut.uk:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
     }, {
@@ -32,6 +41,9 @@
     }, {
       "name": "TH TRUE-NoPRO_CAT",
       "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@104.18.10.161:80/?type=ws&encryption=none&host=iris-nut-1.misterpnut.uk&path=%2Fray"
+    }, {
+      "name": "TH DTAC-NoPRO_CAT",
+      "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=iris-nut-1.misterpnut.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-Line_CAT",
       "content": "vless://7afb57f1-b126-4625-b361-00c1cfe1549f@iris-nut-1.misterpnut.uk:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
