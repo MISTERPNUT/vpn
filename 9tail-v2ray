@@ -51,6 +51,12 @@
       "name": "TH DTAC-NoPRO_BangMod",
       "content": "vless://675bd41d-38c2-4cd9-aae1-ec58ddbe4643@dtac.ddnsgeek.com:8880/?type=ws&encryption=none&host=bangmod-nut-1.misterpnut.uk&path=%2Fray"
     }, {
+      "name": "TH TRUE-NoPRO_INSpace",
+      "content": "vless://675bd41d-38c2-4cd9-aae1-ec58ddbe4643@topping.truemoveh.com:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
+    }, {
+      "name": "TH DTAC-NoPRO_INSpace",
+      "content": "vless://675bd41d-38c2-4cd9-aae1-ec58ddbe4643@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
+    }, {
       "name": "TH DTAC-Line_CAT",
       "content": "vless://675bd41d-38c2-4cd9-aae1-ec58ddbe4643@iris-nut-1.misterpnut.uk:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
     }, {
