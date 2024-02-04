@@ -63,10 +63,10 @@
       "name": "TH DTAC-NoPRO_Bangmod",
       "content": "vless://c903b088-7310-48f1-be8f-93743a666eb5@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=bangmod-nut-2.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "TH TRUE-NoPRO_1Byte",
+      "name": "KH TRUE-NoPRO_1Byte",
       "content": "vless://c903b088-7310-48f1-be8f-93743a666eb5@104.18.11.161:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "TH DTAC-NoPRO_1Byte",
+      "name": "KH DTAC-NoPRO_1Byte",
       "content": "vless://c903b088-7310-48f1-be8f-93743a666eb5@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-Line_CAT",
