@@ -74,6 +74,9 @@
     }, {
       "name": "TH AIS-AisPlay_CAT",
       "content": "vless://62206b5a-7b50-4700-ab4f-986a4258f993@iris-nut-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH AIS-AisPlay_CAT",
+      "content": "vless://f4a12dfd-cbca-4fc3-8954-85f345b0f78c@1byte-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }
   ]
 }
