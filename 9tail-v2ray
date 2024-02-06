@@ -69,14 +69,17 @@
       "name": "KH DTAC-NoPRO_1Byte",
       "content": "vless://c903b088-7310-48f1-be8f-93743a666eb5@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "TH DTAC-Line_CAT",
-      "content": "vless://62206b5a-7b50-4700-ab4f-986a4258f993@iris-nut-1.misterpnut.uk:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
-    }, {
       "name": "TH AIS-AisPlay_CAT",
       "content": "vless://62206b5a-7b50-4700-ab4f-986a4258f993@iris-nut-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "KH AIS-AisPlay_1byte",
       "content": "vless://f4a12dfd-cbca-4fc3-8954-85f345b0f78c@1byte-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH AIS-AisPlay_INSpace 1",
+      "content": "vless://4966d216-6f55-4ccd-9097-d50e45e59e18@inspace-nut-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH AIS-AisPlay_INSpace 2",
+      "content": "vless://27e14da5-da76-4134-846f-ac3444e796c5@inspace-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }
   ]
 }
