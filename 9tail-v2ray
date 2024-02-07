@@ -88,7 +88,7 @@
       "content": "vless://1d4b95de-76fe-432d-98d6-2453b9a472bb@inspace-nut-2.misterpnut.uk:11111/?type=tcp&encryption=none&security=tls&sni=fbcdn.net&allowInsecure=1"
     }, {
       "name": "KH TRUE_FBgaming_1Byte",
-      "content": "vless://1d4b95de-76fe-432d-98d6-2453b9a472bb@1byte-1.misterpnut.uk:11111/?type=tcp&encryption=none&security=tls&sni=fbcdn.net&allowInsecure=1"
+      "content": "vless://b00778b5-0b54-483c-ad9a-be720ed27e27@1byte-1.misterpnut.uk:11111/?type=tcp&encryption=none&security=tls&sni=fbcdn.net&allowInsecure=1"
     }
   ]
 }
