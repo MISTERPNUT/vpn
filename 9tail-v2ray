@@ -86,6 +86,9 @@
     }, {
       "name": "TH TRUE_FBgaming_INSpace 2",
       "content": "vless://de0ccde6-129e-4550-ac6b-3326a12559c1@inspace-nut-2.misterpnut.uk:11111/?type=tcp&encryption=none&security=tls&sni=fbcdn.net&allowInsecure=1"
+    }, {
+      "name": "KH TRUE_FBgaming_1Byte",
+      "content": "vless://fec2045a-aa19-413d-972f-3b7171a4fe8e@1byte-1.misterpnut.uk:11111/?type=tcp&encryption=none&security=tls&sni=fbcdn.net&allowInsecure=1"
     }
   ]
 }
