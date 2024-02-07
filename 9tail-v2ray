@@ -80,6 +80,9 @@
     }, {
       "name": "TH AIS-AisPlay_INSpace 2",
       "content": "vless://27e14da5-da76-4134-846f-ac3444e796c5@inspace-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH TRUE_FBgaming_INSpace 1",
+      "content": "vless://1d4b95de-76fe-432d-98d6-2453b9a472bb@inspace-nut-1.misterpnut.uk:11111/?type=tcp&encryption=none&security=tls&sni=fbcdn.net&allowInsecure=1"
     }
   ]
 }
