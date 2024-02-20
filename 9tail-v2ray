@@ -85,7 +85,7 @@
       "content": "vless://e90af037-210a-4f6e-8722-f627f8990d99@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
     }, {
       "name": "TH TRUE-NoPRO_INSpace 3",
-      "content": "vless://e90af037-210a-4f6e-8722-f627f8990d99@104.18.11.161:80/?type=ws&encryption=none&host=bangmod-nut-4.misterpnut.uk&path=%2Fray"
+      "content": "vless://e90af037-210a-4f6e-8722-f627f8990d99@104.18.11.161:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
     }, {
       "name": "TH AIS-AisPlay_INSpace 3",
       "content": "vless://7880126e-8d57-4daa-85cc-53242c4e7602@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
