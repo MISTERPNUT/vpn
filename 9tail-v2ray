@@ -1,5 +1,5 @@
 {
-  "version": 1.28,
+  "version": 1.29,
   "message": "ดึงข้อมูลสำเร็จแล้ว กด ยืนยัน",
   "data": [
     {
@@ -39,12 +39,6 @@
       "name": "TH AIS-AisPlay_MC-3",
       "content": "vless://032cd35c-259d-4481-88e0-693e1ccbcce6@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
-      "name": "TH TRUE-NoPRO_CAT",
-      "content": "vless://032cd35c-259d-4481-88e0-693e1ccbcce6@104.18.11.161:80/?type=ws&encryption=none&host=iris-nut-1.misterpnut.uk&path=%2Fray"
-    }, {
-      "name": "TH DTAC-NoPRO_CAT",
-      "content": "vless://032cd35c-259d-4481-88e0-693e1ccbcce6@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=iris-nut-1.misterpnut.uk&path=%2Fray"
-    }, {
       "name": "TH TRUE-NoPRO_INSpace 1",
       "content": "vless://032cd35c-259d-4481-88e0-693e1ccbcce6@104.18.11.161:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
     }, {
@@ -68,9 +62,6 @@
     }, {
       "name": "KH DTAC-NoPRO_1Byte",
       "content": "vless://032cd35c-259d-4481-88e0-693e1ccbcce6@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
-    }, {
-      "name": "TH AIS-AisPlay_CAT",
-      "content": "vless://032cd35c-259d-4481-88e0-693e1ccbcce6@iris-nut-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "KH AIS-AisPlay_1byte",
       "content": "vless://032cd35c-259d-4481-88e0-693e1ccbcce6@1byte-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
