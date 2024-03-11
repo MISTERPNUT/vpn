@@ -54,8 +54,11 @@
       "name": "TH DTAC-NoPRO_Bangmod",
       "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=bangmod-nut-2.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "KH TRUE-NoPRO_1Byte",
+      "name": "KH TRUE-NoPRO_1Byte 1-1",
       "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
+    }, {
+      "name": "KH TRUE-NoPRO_1Byte 1-2",
+      "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@true-nopro.misterpnut.uk:8880/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
       "name": "KH DTAC-NoPRO_1Byte",
       "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
