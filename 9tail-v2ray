@@ -39,8 +39,11 @@
       "name": "TH DTAC-NoPRO_INSpace 1",
       "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "TH TRUE-NoPRO_INSpace 2",
+      "name": "TH TRUE-NoPRO_INSpace 2-1",
       "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
+    }, {
+      "name": "TH TRUE-NoPRO_INSpace 2-2",
+      "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@true-nopro.misterpnut.uk:8880/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-NoPRO_INSpace 2",
       "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
@@ -69,8 +72,11 @@
       "name": "TH DTAC-NoPRO_INSpace 3",
       "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "TH TRUE-NoPRO_INSpace 3",
+      "name": "TH TRUE-NoPRO_INSpace 3-1",
       "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
+    }, {
+      "name": "TH TRUE-NoPRO_INSpace 3-2",
+      "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@true-nopro.misterpnut.uk:8880/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
     }, {
       "name": "TH AIS-AisPlay_INSpace 3",
       "content": "vless://7d91c2d2-02aa-48d2-a711-6f0d28e8b5b5@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
