@@ -1,6 +1,6 @@
 {
-  "version": 1.35,
-  "message": "ดึงข้อมูลสำเร็จแล้ว กด ยืนยัน",
+  "version": 1.36,
+  "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท",
   "data": [
     {
       "name": "TH TRUE-NoPRO_MC-1",
@@ -83,6 +83,9 @@
     }, {
       "name": "TH AIS-AisPlay_INSpace 3",
       "content": "vless://6f8e6af9-a227-4d79-a81d-f3d2eac153b8@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "KH TRUE-FB Gaming 1Byte",
+      "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@1byte-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     }
   ]
 }
