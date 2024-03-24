@@ -1,5 +1,5 @@
 {
-  "version": 1.37,
+  "version": 1.38,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท",
   "data": [
     {
@@ -54,16 +54,16 @@
       "name": "TH DTAC-NoPRO_Bangmod",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=bangmod-nut-2.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "US TRUE-NoPRO_1Byte 1-1",
+      "name": "JP TRUE-NoPRO_1Byte 1-1",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "EN TRUE-NoPRO_1Byte 1-2",
+      "name": "JP TRUE-NoPRO_1Byte 1-2",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@true-nopro.misterpnut.uk:8880/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
       "name": "JP DTAC-NoPRO_1Byte",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "KH AIS-AisPlay_1byte",
+      "name": "JP AIS-AisPlay_1byte",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@1byte-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "TH AIS-AisPlay_INSpace 1",
@@ -84,7 +84,7 @@
       "name": "TH AIS-AisPlay_INSpace 3",
       "content": "vless://6f8e6af9-a227-4d79-a81d-f3d2eac153b8@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
-      "name": "KH TRUE-FB Gaming 1Byte",
+      "name": "JP TRUE-FB Gaming 1Byte",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@1byte-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     }
   ]
