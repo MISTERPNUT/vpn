@@ -1,5 +1,5 @@
 {
-  "version": 1.36,
+  "version": 1.37,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท",
   "data": [
     {
@@ -54,13 +54,13 @@
       "name": "TH DTAC-NoPRO_Bangmod",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=bangmod-nut-2.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "KH TRUE-NoPRO_1Byte 1-1",
+      "name": "US TRUE-NoPRO_1Byte 1-1",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "KH TRUE-NoPRO_1Byte 1-2",
+      "name": "EN TRUE-NoPRO_1Byte 1-2",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@true-nopro.misterpnut.uk:8880/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
-      "name": "KH DTAC-NoPRO_1Byte",
+      "name": "JP DTAC-NoPRO_1Byte",
       "content": "vless://12ee9a88-da54-430a-b03d-5996600d70c7@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     }, {
       "name": "KH AIS-AisPlay_1byte",
