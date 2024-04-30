@@ -1,5 +1,5 @@
 {
-  "version": 1.44,
+  "version": 1.45,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท",
   "data": [
     {
@@ -28,11 +28,11 @@
     },
     {
       "name": "TH TRUE-NoPRO 1",
-      "content": "vless://b515e44f-e779-4252-8712-5c3becf3a5a6@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
+      "content": "vless://b515e44f-e779-4252-8712-5c3becf3a5a6@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-v2ray.misterpnut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE-NoPRO 2",
-      "content": "vless://b515e44f-e779-4252-8712-5c3becf3a5a6@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
+      "content": "vless://b515e44f-e779-4252-8712-5c3becf3a5a6@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-v2ray.misterpnut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE-NoPRO 6",
@@ -56,7 +56,7 @@
     },
     {
       "name": "TH TRUE-NoPRO 3",
-      "content": "vless://b515e44f-e779-4252-8712-5c3becf3a5a6@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
+      "content": "vless://b515e44f-e779-4252-8712-5c3becf3a5a6@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-v2ray.misterpnut.uk&path=%2Fray"
     },
     {
       "name": "TH AIS-AisPlay 4",
