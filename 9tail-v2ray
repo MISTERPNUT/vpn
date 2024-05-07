@@ -40,11 +40,11 @@
     },
     {
       "name": "JP TRUE-NoPRO 1",
-      "content": "vless://b515e44f-e779-4252-8712-5c3becf3a5a6@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
+      "content": "vless://279d90c4-2695-49d5-b759-4873be21c014@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     },
     {
       "name": "JP AIS-AisPlay 1",
-      "content": "vless://b515e44f-e779-4252-8712-5c3becf3a5a6@1byte-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://279d90c4-2695-49d5-b759-4873be21c014@1byte-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 2",
@@ -64,7 +64,7 @@
     },
     {
       "name": "JP TRUE-FB Gaming 1",
-      "content": "vless://b515e44f-e779-4252-8712-5c3becf3a5a6@1byte-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+      "content": "vless://279d90c4-2695-49d5-b759-4873be21c014@1byte-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     }
   ]
 }
