@@ -1,13 +1,9 @@
 {
-  "version": 1.51,
+  "version": 1.52,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู 
 จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat 
 ความเร็ว 64 kbs 30 วัน",
   "data": [
-    {
-      "name": "TH TRUE-NoPRO 0",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-v2ray.misterpnut.uk&path=%2Fray"
-    },
     {
       "name": "TH TRUE-NoPRO 1",
       "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
