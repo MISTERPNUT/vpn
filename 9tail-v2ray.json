@@ -1,5 +1,5 @@
 {
-  "version": 1.63,
+  "version": 1.64,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "TH-02 TRUE-NoPRO CF สำหรับ update",
-      "content": "vless://49aacdab-c9b9-4031-8e64-514e9cd72089@true-nopro.misterpnut.uk:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=shAHaNShahi.pagES.deV&fp=randomized&type=ws&sni=ShahANsHahi.paGEs.Dev#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+2"
+      "content": "vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@true-nopro.misterpnut.uk:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=h2&host=de01.tradex2080.com&fp=chrome&type=ws&sni=de01.tradex2080.com#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+2"
     },
     {
       "name": "TH-03 TRUE-NoPRO CF สำหรับ update",
@@ -17,6 +17,10 @@
     {
       "name": "TH-04 TRUE-NoPRO CF สำหรับ update",
       "content": "vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@true-nopro.misterpnut.uk:443?path=%2F%3Fed&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+4"
+    },
+    {
+      "name": "TH-05 TRUE-NoPRO CF สำหรับ update",
+      "content": "vless://49aacdab-c9b9-4031-8e64-514e9cd72089@true-nopro.misterpnut.uk:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=shAHaNShahi.pagES.deV&fp=randomized&type=ws&sni=ShahANsHahi.paGEs.Dev#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+5"
     },
     {
       "name": "TH TRUE-NoPRO 1",
