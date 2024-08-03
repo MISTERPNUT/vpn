@@ -1,5 +1,5 @@
 {
-  "version": 1.69,
+  "version": 1.70,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
@@ -23,7 +23,7 @@
       "content": "vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@true-nopro.misterpnut.uk:443?path=%2F&security=tls&encryption=none&host=freedom14.geraxex389.workers.dev&fp=chrome&type=ws&sni=freedom14.geraxex389.workers.dev#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+5"
     },
     {
-      "name": "EN-01 TRUE-NoPRO CF สำหรับเล่น Net และ update APP",
+      "name": "UK-01 TRUE-NoPRO CF สำหรับเล่น Net และ update APP",
       "content": "vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@true-nopro.misterpnut.uk:443?path=%2F&security=tls&encryption=none&host=freedom14.geraxex389.workers.dev&fp=chrome&type=ws&sni=freedom14.geraxex389.workers.dev#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+1+GB"
     },
     {
