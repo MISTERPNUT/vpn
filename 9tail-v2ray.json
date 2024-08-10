@@ -1,5 +1,5 @@
 {
-  "version": 1.81,
+  "version": 1.82,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
@@ -61,18 +61,6 @@
     {
       "name": "TH-5 TRUE-FB Gaming",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@bangmod-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-6 TRUE-FB Gaming",
-      "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@mcloud-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-7 TRUE-FB Gaming",
-      "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@mcloud-nut-3.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-8 TRUE-FB Gaming",
-      "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@mcloud-nut-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
       "name": "TH AIS-AisPlay 1",
