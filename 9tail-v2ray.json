@@ -1,5 +1,5 @@
 {
-  "version": 1.83,
+  "version": 1.84,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
@@ -11,87 +11,87 @@
       "content": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@true-id.misterpnut.uk:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dns68.putata.eu.org&fp=randomized&type=ws&sni=dns68.putata.eu.org#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+4"
     },
     {
-      "name": "TH TRUE-ID 1",
+      "name": "TH TRUE-ID 1-1byte",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-ID 2",
+      "name": "TH TRUE-ID 2-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-ID 3",
+      "name": "TH TRUE-ID 3-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-ID 4",
+      "name": "TH TRUE-ID 4-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-ID 5",
+      "name": "TH TRUE-ID 5-BM",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-1.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-ID 6",
+      "name": "TH TRUE-ID 6-MC",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-2.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-ID 7",
+      "name": "TH TRUE-ID 7-MC",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-3.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-ID 8",
+      "name": "TH TRUE-ID 8-MC",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-1 TRUE-FB Gaming",
+      "name": "TH-1 TRUE-FB Gaming-1byte",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@1byte-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH-2 TRUE-FB Gaming",
+      "name": "TH-2 TRUE-FB Gaming-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@inspace-nut-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH-3 TRUE-FB Gaming",
+      "name": "TH-3 TRUE-FB Gaming-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@inspace-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH-4 TRUE-FB Gaming",
+      "name": "TH-4 TRUE-FB Gaming-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@inspace-nut-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH-5 TRUE-FB Gaming",
+      "name": "TH-5 TRUE-FB Gaming-BM",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@bangmod-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH AIS-AisPlay 1",
+      "name": "TH AIS-AisPlay 1-1byte",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@1byte-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 2",
+      "name": "TH AIS-AisPlay 2-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@inspace-nut-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 3",
+      "name": "TH AIS-AisPlay 3-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@inspace-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 4",
+      "name": "TH AIS-AisPlay 4-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 5",
+      "name": "TH AIS-AisPlay 5-BM",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@bangmod-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 6",
+      "name": "TH AIS-AisPlay 6-MC",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 7",
+      "name": "TH AIS-AisPlay 7-MC",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 8",
+      "name": "TH AIS-AisPlay 8-MC",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
@@ -103,35 +103,35 @@
       "content": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@dtac-trueid.misterpnut.uk:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dns68.putata.eu.org&fp=randomized&type=ws&sni=dns68.putata.eu.org#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+4"
     },
     {
-      "name": "TH DTAC-ID 1",
+      "name": "TH DTAC-ID 1-1byte",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH DTAC-ID 2",
+      "name": "TH DTAC-ID 2-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH DTAC-ID 3",
+      "name": "TH DTAC-ID 3-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH DTAC-ID 4",
+      "name": "TH DTAC-ID 4-IS",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH DTAC-ID 5",
+      "name": "TH DTAC-ID 5-BM",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=true-1.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH DTAC-ID 6",
+      "name": "TH DTAC-ID 6-MC",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=true-2.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH DTAC-ID 7",
+      "name": "TH DTAC-ID 7-MC",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=true-3.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH DTAC-ID 8",
+      "name": "TH DTAC-ID 8-MC",
       "content": "vless://4740169b-06a2-489b-af9b-e7a3268c78fb@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
     }
   ]
