@@ -1,5 +1,5 @@
 {
-  "version": 1.89,
+  "version": 1.90,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
@@ -135,31 +135,31 @@
       "content": "vless://8ee29850-a1db-45be-90c0-36f8e879f54a@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
     },
      {
-      "name": "TH TRUE-NoPRO 1-BM",
+      "name": "TH TRUE-NoPRO 4-BM",
       "content": "vless://8ee29850-a1db-45be-90c0-36f8e879f54a@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-1.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-NoPRO 2-MC",
+      "name": "TH TRUE-NoPRO 5-MC",
       "content": "vless://8ee29850-a1db-45be-90c0-36f8e879f54a@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-2.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-NoPRO 3-MC",
+      "name": "TH TRUE-NoPRO 6-MC",
       "content": "vless://8ee29850-a1db-45be-90c0-36f8e879f54a@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-3.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-NoPRO 4-MC",
+      "name": "TH TRUE-NoPRO 7-MC",
       "content": "vless://8ee29850-a1db-45be-90c0-36f8e879f54a@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-4.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-NoPRO 5-IS",
+      "name": "TH TRUE-NoPRO 1-IS",
       "content": "vless://8ee29850-a1db-45be-90c0-36f8e879f54a@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-5.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-NoPRO 6-IS",
+      "name": "TH TRUE-NoPRO 2-IS",
       "content": "vless://8ee29850-a1db-45be-90c0-36f8e879f54a@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-6.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE-NoPRO 7-IS",
+      "name": "TH TRUE-NoPRO 3-IS",
       "content": "vless://8ee29850-a1db-45be-90c0-36f8e879f54a@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-7.misternut.uk&path=%2Fray"
     }
   ]
