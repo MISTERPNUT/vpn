@@ -1,5 +1,5 @@
 {
-  "version": 1.92,
+  "version": 1.93,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
@@ -161,10 +161,6 @@
     {
       "name": "TH TRUE-NoPRO 3-IS",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-7.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH TRUE-NoPRO CF สำหรับเล่น Net และ Update",
-      "content": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@www.opensignal.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=www.opensignal.com.sg-01.misterpnut.uk&fp=randomized&type=ws&sni=dns68.putata.eu.org#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+4"
     }
   ]
 }
