@@ -1,18 +1,10 @@
 {
-  "version": 1.94,
+  "version": 1.95,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
-      "name": "TH-TRUE-ID CF 1 สำหรับเล่น Net",
-      "content": "vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@true-id.misterpnut.uk:443?path=%2F%3Fed&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+3"
-    },
-    {
-      "name": "TH-TRUE-ID CF 2 สำหรับเล่น Net",
-      "content": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@true-id.misterpnut.uk:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dns68.putata.eu.org&fp=randomized&type=ws&sni=dns68.putata.eu.org#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+4"
-    },
-    {
-      "name": "TH-TRUE-ID 1-1byte",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
+      "name": "TH-TRUE-ID 1-Ready",
+      "content": "vless://20559cec-4816-4231-8569-60d58fe3fae2@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
     {
       "name": "TH-TRUE-ID 2-IS",
@@ -43,8 +35,8 @@
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-1 TRUE-FB Gaming-1byte 🎮 🎮",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@1byte-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+      "name": "TH-1 TRUE-FB Gaming-Ready 🎮 🎮",
+      "content": "vless://20559cec-4816-4231-8569-60d58fe3fae2@www.opensignal.com.readyidc-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
       "name": "TH-2 TRUE-FB Gaming-IS 🎮 🎮",
@@ -63,8 +55,8 @@
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@bangmod-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH AIS-AisPlay 1-1byte",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@1byte-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "name": "TH AIS-AisPlay 1-Ready",
+      "content": "vless://20559cec-4816-4231-8569-60d58fe3fae2@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 2-IS",
@@ -95,16 +87,8 @@
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "SG-02 DTAC-ID CF สำหรับเล่น Net และ update APP",
-      "content": "vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@dtac-trueid.misterpnut.uk:443?path=%2F%3Fed&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+3"
-    },
-    {
-      "name": "SG-01 DTAC-ID CF สำหรับเล่น Net และ update APP",
-      "content": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@dtac-trueid.misterpnut.uk:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dns68.putata.eu.org&fp=randomized&type=ws&sni=dns68.putata.eu.org#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+4"
-    },
-    {
-      "name": "TH DTAC-ID 1-1byte",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
+      "name": "TH DTAC-ID 1-Ready",
+      "content": "vless://20559cec-4816-4231-8569-60d58fe3fae2@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
     {
       "name": "TH DTAC-ID 2-IS",
@@ -133,6 +117,10 @@
     {
       "name": "TH DTAC-ID 8-MC",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@dtac-trueid.misterpnut.uk:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
+    },
+    {
+      "name": "TH TRUE-NoPRO 1-Ready 🌟🌟🌟",
+      "content": "vless://20559cec-4816-4231-8569-60d58fe3fae2@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
      {
       "name": "TH TRUE-NoPRO 4-BM 🌟🌟🌟",
