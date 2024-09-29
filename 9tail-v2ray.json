@@ -35,7 +35,11 @@
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-1 TRUE-FB Gaming-Ready 🎮 🎮",
+      "name": "TH-1 TRUE-FB Gaming-Ready 1 🎮 🎮",
+      "content": "vless://1fc15645-df75-43d0-b043-fdde347fee41@www.opensignal.com.true-8.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+    },
+    {
+      "name": "TH-1 TRUE-FB Gaming-Ready 2 🎮 🎮",
       "content": "vless://20559cec-4816-4231-8569-60d58fe3fae2@www.opensignal.com.readyidc-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
