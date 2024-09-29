@@ -60,34 +60,38 @@
     },
     {
       "name": "TH AIS-AisPlay 1-Ready 📍",
+      "content": "vless://82b56955-e2dd-4926-ac77-824c4a6208be@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-AisPlay 2-Ready 📍",
       "content": "vless://20559cec-4816-4231-8569-60d58fe3fae2@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 2-IS 📍",
+      "name": "TH AIS-AisPlay 3-IS 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@inspace-nut-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 3-IS 📍",
+      "name": "TH AIS-AisPlay 4-IS 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@inspace-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 4-IS 📍",
+      "name": "TH AIS-AisPlay 5-IS 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 5-BM 📍",
+      "name": "TH AIS-AisPlay 6-BM 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@bangmod-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 6-MC 📍",
+      "name": "TH AIS-AisPlay 7-MC 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 7-MC 📍",
+      "name": "TH AIS-AisPlay 8-MC 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-AisPlay 8-MC 📍",
+      "name": "TH AIS-AisPlay 9-MC 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
