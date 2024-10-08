@@ -1,5 +1,5 @@
 {
-  "version": 1.99,
+  "version": 2.00,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
@@ -21,10 +21,6 @@
     {
       "name": "TH-TRUE-ID 5-IS 📍",
       "content": "vless://5eb1d41e-85b5-4c76-8bcd-17ab33d9e0dc@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE-ID 6-BM 📍",
-      "content": "vless://5eb1d41e-85b5-4c76-8bcd-17ab33d9e0dc@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-1.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH-TRUE-ID 7-MC สำหรับอัพเดท 📍",
@@ -81,10 +77,6 @@
     {
       "name": "TH AIS-AisPlay 5-IS 📍",
       "content": "vless://5eb1d41e-85b5-4c76-8bcd-17ab33d9e0dc@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    },
-    {
-      "name": "TH AIS-AisPlay 6-BM 📍",
-      "content": "vless://5eb1d41e-85b5-4c76-8bcd-17ab33d9e0dc@bangmod-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 7-MC สำหรับอัพเดท 📍",
