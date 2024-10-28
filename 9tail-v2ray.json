@@ -1,129 +1,129 @@
 {
-  "version": 2.03,
-  "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
+  "version": 2.04,
+  "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากดเลือกเซิฟเวอร์ที่เขียนว่า สำหรับอัพเดท 📍 จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto",
   "data": [
     {
-      "name": "TH-T-ID 1-Ready 📍",
+      "name": "TH-TRUE ID 1-Ready 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-T-ID 2-Ready 📍",
+      "name": "TH-TRUE ID 2-Ready 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH-T-ID 3-IS 📍",
+      "name": "TH-TRUE ID 3-IS 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH-T-ID 4-IS 📍",
+      "name": "TH-TRUE ID 4-IS 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH-T-ID 5-IS 📍",
+      "name": "TH-TRUE ID 5-IS 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH-T-ID 7-MC สำหรับอัพเดท 📍",
+      "name": "TH-TRUE ID 7-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-2.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-T-ID 8-MC สำหรับอัพเดท 📍",
+      "name": "TH-TRUE ID 8-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-3.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-T-ID 9-MC สำหรับอัพเดท 📍",
+      "name": "TH-TRUE ID 9-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-1 T-FB Gaming-Ready 1 🎮 🎮",
+      "name": "TH-1 TRUE FB Gaming-Ready 1 🎮 🎮",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com.true-8.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH-1 T-FB Gaming-Ready 2 🎮 🎮",
+      "name": "TH-1 TRUE FB Gaming-Ready 2 🎮 🎮",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com.readyidc-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH-2 T-FB Gaming-IS 🎮 🎮",
+      "name": "TH-2 TRUE FB Gaming-IS 🎮 🎮",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@inspace-nut-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH-3 T-FB Gaming-IS 🎮 🎮",
+      "name": "TH-3 TRUE FB Gaming-IS 🎮 🎮",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@inspace-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH-4 T-FB Gaming-IS 🎮 🎮",
+      "name": "TH-4 TRUE FB Gaming-IS 🎮 🎮",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@inspace-nut-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH-5 T-FB Gaming-BM 🎮 🎮",
+      "name": "TH-5 TRUE FB Gaming-BM 🎮 🎮",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@bangmod-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH A-Play 1-Ready 📍",
+      "name": "TH Ais Play 1-Ready 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH A-Play 2-Ready 📍",
+      "name": "TH Ais Play 2-Ready 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH A-Play 3-IS 📍",
+      "name": "TH Ais Play 3-IS 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@inspace-nut-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH A-Play 4-IS 📍",
+      "name": "TH Ais Play 4-IS 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@inspace-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH A-Play 5-IS 📍",
+      "name": "TH Ais Play 5-IS 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH A-Play 7-MC สำหรับอัพเดท 📍",
+      "name": "TH Ais Play 7-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH A-APlay 8-MC สำหรับอัพเดท 📍",
+      "name": "TH Ais Play 8-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH A-Play 9-MC สำหรับอัพเดท 📍",
+      "name": "TH Ais Play 9-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH T-NoPRO 1-Ready 🌟🌟",
+      "name": "TH TRUE NoPRO 1-Ready 🌟🌟",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH T-NoPRO 2-Ready 🌟🌟",
+      "name": "TH TRUE NoPRO 2-Ready 🌟🌟",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
      {
-      "name": "TH T-NoPRO 6-BM 🌟🌟",
+      "name": "TH TRUE NoPRO 6-BM 🌟🌟",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-1.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH T-NoPRO 7-MC สำหรับอัพเดท 🌟🌟",
+      "name": "TH TRUE NoPRO 7-MC สำหรับอัพเดท 🌟🌟",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-2.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH T-NoPRO 8-MC สำหรับอัพเดท 🌟🌟",
+      "name": "TH TRUE NoPRO 8-MC สำหรับอัพเดท 🌟🌟",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-3.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH T-NoPRO 9-MC สำหรับอัพเดท 🌟🌟",
+      "name": "TH TRUE NoPRO 9-MC สำหรับอัพเดท 🌟🌟",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-4.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH T-NoPRO 3-IS 🌟🌟",
+      "name": "TH TRUE NoPRO 3-IS 🌟🌟",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-5.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH T-NoPRO 4-IS 🌟🌟",
+      "name": "TH TRUE NoPRO 4-IS 🌟🌟",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-6.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH T-NoPRO 5-IS 🌟🌟",
+      "name": "TH TRUE NoPRO 5-IS 🌟🌟",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-7.misternut.uk&path=%2Fray"
     }
   ]
