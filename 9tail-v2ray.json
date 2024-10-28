@@ -1,5 +1,5 @@
 {
-  "version": 2.05,
+  "version": 2.06,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากดเลือกเซิฟเวอร์ที่เขียนว่า สำหรับอัพเดท 📍 จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto",
   "data": [
     {
@@ -59,35 +59,35 @@
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@bangmod-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
-      "name": "TH Ais Ais+Play 1-Ready 📍",
+      "name": "TH AIS-AisPlay 1-Ready 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH Ais Ais+Play 2-Ready 📍",
+      "name": "TH AIS-AisPlay 2-Ready 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH Ais Ais+Play 3-IS 📍",
+      "name": "TH AIS-AisPlay 3-IS 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@inspace-nut-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH Ais Ais+Play 4-IS 📍",
+      "name": "TH AIS-AisPlay 4-IS 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@inspace-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH Ais Ais+Play 5-IS 📍",
+      "name": "TH AIS-AisPlay 5-IS 📍",
       "content": "vless://97f63a74-4004-473b-bfeb-1335cbd04117@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH Ais Ais+Play 7-MC สำหรับอัพเดท 📍",
+      "name": "TH AIS-AisPlay 7-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH Ais Ais+Play 8-MC สำหรับอัพเดท 📍",
+      "name": "TH AIS-AisPlay 8-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
-      "name": "TH Ais Ais+Play 9-MC สำหรับอัพเดท 📍",
+      "name": "TH AIS-AisPlay 9-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
