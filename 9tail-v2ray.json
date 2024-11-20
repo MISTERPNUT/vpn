@@ -1,5 +1,5 @@
 {
-  "version": 2.18,
+  "version": 2.19,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากดเลือกเซิฟเวอร์ที่เขียนว่า สำหรับอัพเดท 📍 จะได้ไม่มีปัญหาเวลา server update แบบ auto",
   "data": [
     {
@@ -164,39 +164,39 @@
     },
     {
       "name": "TH DTAC NoPRO 5-IS 🔵",
-      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-7.misternut.uk&path=%2Fray"
+      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-7.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH DTAC NoPRO 4-IS 🔵",
-      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-6.misternut.uk&path=%2Fray"
+      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-6.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH DTAC NoPRO 3-IS 🔵",
-      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-5.misternut.uk&path=%2Fray"
+      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-5.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH DTAC NoPRO 2-Ready 🔵",
-      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
+      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
      {
       "name": "TH DTAC NoPRO 1-Ready 🔵",
-      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
+      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH DTAC NoPRO 6-BM 🔵",
-      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-1.misternut.uk&path=%2Fray"
+      "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-1.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH DTAC NoPRO 7-MC สำหรับอัพเดท 🔵",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-2.misternut.uk&path=%2Fray"
+      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-2.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH DTAC NoPRO 8-MC สำหรับอัพเดท 🔵",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-3.misternut.uk&path=%2Fray"
+      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-3.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH DTAC NoPRO 9-MC สำหรับอัพเดท 🔵",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-4.misternut.uk&path=%2Fray"
+      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-4.misternut.uk&path=%2Fray"
     }
   ]
 }
