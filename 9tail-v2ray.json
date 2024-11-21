@@ -1,5 +1,5 @@
 {
-  "version": 2.19,
+  "version": 2.20,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากดเลือกเซิฟเวอร์ที่เขียนว่า สำหรับอัพเดท 📍 จะได้ไม่มีปัญหาเวลา server update แบบ auto",
   "data": [
     {
@@ -127,7 +127,7 @@
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-3.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE NoPRO 10-MC สำหรับอัพเดท 🌟",
+      "name": "TH TRUE NoPRO 99-MC สำหรับอัพเดท 🌟",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-4.misternut.uk&path=%2Fray"
     },
     {
@@ -179,7 +179,7 @@
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-3.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH TRUE NoPRO II 10-MC สำหรับอัพเดท 🔴🔴",
+      "name": "TH TRUE NoPRO II 99-MC สำหรับอัพเดท 🔴🔴",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@104.18.34.21:80/?type=ws&encryption=none&host=www.opensignal.com.true-4.misternut.uk&path=%2Fray"
     },
     {
@@ -219,7 +219,7 @@
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-3.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH DTAC NoPRO 10-MC สำหรับอัพเดท 🔵",
+      "name": "TH DTAC NoPRO 99-MC สำหรับอัพเดท 🔵",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-4.misternut.uk&path=%2Fray"
     }
   ]
