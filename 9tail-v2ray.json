@@ -110,11 +110,11 @@
       "name": "TH TRUE NoPRO 2-Ready 🌟",
       "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
-    
+    {
       "name": "TH TRUE NoPRO 3-Ready 🌟",
       "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
     },
-     {
+    {
       "name": "TH TRUE NoPRO 7-BM 🌟",
       "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-1.misternut.uk&path=%2Fray"
     },
@@ -202,7 +202,7 @@
       "name": "TH DTAC NoPRO 2-Ready 🔵",
       "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
-     {
+    {
       "name": "TH DTAC NoPRO 1-Ready 🔵",
       "content": "vless://37864018-5a94-4850-bdee-1d66b3c3630e@mobile.onetrust.io:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
     },
