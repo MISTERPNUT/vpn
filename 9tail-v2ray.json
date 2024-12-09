@@ -1,5 +1,5 @@
 {
-  "version": 2.28,
+  "version": 2.29,
   "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากดเลือกเซิฟเวอร์ที่เขียนว่า สำหรับอัพเดท 📍 จะได้ไม่มีปัญหาเวลา server update แบบ auto",
   "data": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "name": "TH AIS-AisPlay 3-Ready 🟢",
-      "content": "vless://ddcf3404-36f9-4bfb-8dd3-5d172754c12e@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://5e0626e0-443e-4865-8793-c31c8bcf30cc@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 4-IS 🟢",
