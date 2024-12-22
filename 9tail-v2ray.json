@@ -1,5 +1,5 @@
 {
-  "version": 2.34,
+  "version": 2.35,
   "message": "🌟 โปรเสริมสำหรับเล่น VPN 🌟
 📢 ประกาศสำคัญ 📢
 🔹 โปรกันรั่ว 💧
@@ -15,39 +15,39 @@
 🎯 หมายเหตุ: เลือกโปรตามการใช้งานของคุณเพื่อความคุ้มค่า! 😊",
   "data": [
     {
-      "name": "TH-TRUE ID 1-Ready 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
+      "name": "TH TRUE ID 1-Ready 📍",
+      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@c.trueid.net:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-TRUE ID 2-Ready 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
+      "name": "TH TRUE ID 2-Ready 📍",
+      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@c.trueid.net:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH-TRUE ID 3-Ready 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
+      "name": "TH TRUE ID 3-Ready 📍",
+      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@c.trueid.net:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-TRUE ID 4-IS 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
+      "name": "TH TRUE ID 4-IS 📍",
+      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@c.trueid.net:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH-TRUE ID 5-IS 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
+      "name": "TH TRUE ID 5-IS 📍",
+      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@c.trueid.net:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH-TRUE ID 6-IS 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
+      "name": "TH TRUE ID 6-IS 📍",
+      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@c.trueid.net:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
     },
     {
-      "name": "TH-TRUE ID 7-MC สำหรับอัพเดท 📍",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-2.misternut.uk&path=%2Fray"
+      "name": "TH TRUE ID 7-MC สำหรับอัพเดท 📍",
+      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@c.trueid.net:80/?type=ws&encryption=none&host=true-2.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-TRUE ID 8-MC สำหรับอัพเดท 📍",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-3.misternut.uk&path=%2Fray"
+      "name": "TH TRUE ID 8-MC สำหรับอัพเดท 📍",
+      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@c.trueid.net:80/?type=ws&encryption=none&host=true-3.misternut.uk&path=%2Fray"
     },
     {
-      "name": "TH-TRUE ID 9-MC สำหรับอัพเดท 📍",
+      "name": "TH TRUE ID 9-MC สำหรับอัพเดท 📍",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@true-id.misterpnut.uk:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
     },
     {
