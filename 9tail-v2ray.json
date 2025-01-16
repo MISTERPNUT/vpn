@@ -1,46 +1,10 @@
 {
-  "version": 2.44,
+  "version": 2.45,
   "message": "Up Date App
 🌟 โปรเสริมสำหรับเล่น VPN 🌟
 🎁โปร VIU 30วัน/79บาทกดสมัคร *900*7432#ความไว1-15mb
 เเล้วเลือกไฟล์True VIU",
   "data": [
-    {
-      "name": "TH-TRUE ID 1-Ready 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@creators.trueid.net:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE ID 2-Ready 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@creators.trueid.net:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE ID 3-Ready 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@creators.trueid.net:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE ID 4-IS 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@creators.trueid.net:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE ID 5-IS 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@creators.trueid.net:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE ID 6-IS 📍",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@creators.trueid.net:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE ID 7-MC สำหรับอัพเดท 📍",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@creators.trueid.net:80/?type=ws&encryption=none&host=true-2.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE ID 8-MC สำหรับอัพเดท 📍",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@creators.trueid.net:80/?type=ws&encryption=none&host=true-3.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE ID 9-MC สำหรับอัพเดท 📍",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@creators.trueid.net:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
-    },
     {
       "name": "TH-1 TRUE FB Gaming-Ready 1 🎮 🎮",
       "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@www.opensignal.com.true-8.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
@@ -104,46 +68,6 @@
     {
       "name": "TH AIS-AisPlay 9-MC สำหรับอัพเดท 🟢",
       "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    },
-    {
-      "name": "TH-TRUE NoPRO 1-Ready ⭐️🌟⭐️",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE NoPRO 2-Ready ⭐️🌟⭐️",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE NoPRO 3-Ready ⭐️🌟⭐️",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE NoPRO 7-BM ⭐️🌟⭐️",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-1.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE NoPRO 8-MC สำหรับอัพเดท ⭐️🌟⭐️",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-2.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE NoPRO 9-MC สำหรับอัพเดท ⭐️🌟⭐️",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-3.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE NoPRO 99-MC สำหรับอัพเดท ⭐️🌟⭐️",
-      "content": "vless://91b0d0f9-43a5-4845-b982-24066e115d5b@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-4.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE NoPRO 4-IS ⭐️🌟⭐️",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-5.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE NoPRO 5-IS ⭐️🌟⭐️",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-6.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-TRUE NoPRO 6-IS ⭐️🌟⭐️",
-      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@www.opensignal.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-7.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VIU 6-IS 🫶💗🫶",
