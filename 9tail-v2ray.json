@@ -1,5 +1,5 @@
 {
-  "version": 2.50,
+  "version": 2.51,
   "message": "Up Date App
 🌟 โปรเสริมสำหรับเล่น VPN 🌟
 🎁โปร VIU 30วัน/79บาทกดสมัคร *900*7432#ความไว1-15mb
@@ -24,6 +24,18 @@
     {
       "name": "TH-3 TRUE FB Gaming-IS 🎮 🎮",
       "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@inspace-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+    },
+    {
+      "name": "TH-4 TRUE FB Gaming-MC-1 สำหรับอัพเดท 🎮 🎮",
+      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@mcloud-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+    },
+    {
+      "name": "TH-5 TRUE FB Gaming-MC-2 สำหรับอัพเดท 🎮 🎮",
+      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@mcloud-nut-3.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+    },
+    {
+      "name": "TH-6 TRUE FB Gaming-MC-3 สำหรับอัพเดท 🎮 🎮",
+      "content": "vless://be23e509-dede-4aad-bb60-1a53d77b1408@mcloud-nut-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
       "name": "TH AIS-AisPlay 1-Ready 🟢",
