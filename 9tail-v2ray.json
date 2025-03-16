@@ -1,32 +1,32 @@
 {
-  "version": 2.58,
+  "version": 2.59,
   "message": "Up Date App
 🌟 โปรเสริมสำหรับเล่น VPN 🌟
 🎁โปรTrue Viber 4Mbps *900*3809*17042288# 30วัน/49บาท โปรTrue VIU 30วัน/79บาทกดสมัคร *900*7432#ความไว1-15mb โปรTRUE VDO Conference",
   "data": [
     {
       "name": "TH-1 TRUE FB Gaming-Ready 1 🎮 🎮",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@www.opensignal.com.true-8.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@www.opensignal.com.true-8.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
       "name": "TH-1 TRUE FB Gaming-Ready 2 🎮 🎮",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@www.opensignal.com.readyidc-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@www.opensignal.com.readyidc-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
       "name": "TH-1 TRUE FB Gaming-Ready 3 🎮 🎮",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@www.opensignal.com.true-16.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@www.opensignal.com.true-16.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
       "name": "TH AIS-AisPlay 1-Ready 🟢",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 2-Ready 🟢",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 3-Ready 🟢",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 4-MC สำหรับอัพเดท 🟢",
@@ -42,15 +42,15 @@
     },
     {
       "name": "TH TRUE VIU 2-Ready 🫶💗🫶",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@help.viu.com:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@help.viu.com:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VIU 3-Ready 🫶💗🫶",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@help.viu.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@help.viu.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VIU 1-Ready 🫶💗🫶",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@help.viu.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@help.viu.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VIU 4-MC สำหรับอัพเดท 🫶💗🫶",
@@ -66,15 +66,15 @@
     },
     {
       "name": "TH TRUE VDO Conference 2-Ready 🎥🎥",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@support.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@support.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VDO Conference 3-Ready 🎥🎥",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@support.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@support.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VDO Conference 1-Ready 🎥🎥",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@support.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@support.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VDO Conference 4-MC สำหรับอัพเดท 🎥🎥",
@@ -90,15 +90,15 @@
     },
     {
       "name": "TH TRUE VIBER 2-Ready 🌐",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@help.viber.com:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@help.viber.com:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VIBER 3-Ready 🌐",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@help.viber.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@help.viber.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VIBER 1-Ready 🌐",
-      "content": "vless://29fe34b7-d2a9-4c2d-bb88-a268c7534cf0@help.viber.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
+      "content": "vless://16c6d3c8-fe94-42b8-b7c3-20d24590b945@help.viber.com:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH TRUE VIBER 4-MC สำหรับอัพเดท 🌐",
