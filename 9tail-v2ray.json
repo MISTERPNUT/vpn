@@ -1,5 +1,5 @@
 {
-  "version": 3.01,
+  "version": 3.02,
   "message": "Up Date App
 🌟 โปรเสริมสำหรับเล่น VPN 🌟
 🎁โปรTrue Viber 4Mbps กดสมัคร *900*3809*17042288# 30วัน/49บาท โปรTrue เรียนฟรี 10Mbpsกด *900*8234#81บาท 30วัน",
@@ -15,14 +15,6 @@
     {
       "name": "TH-5 TRUE FB Gaming-Ready 3 🎮 🎮",
       "content": "vless://627d5542-37e4-4fd8-af17-b3cd00d3751b@www.opensignal.com.true-16.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-5 TRUE FB Gaming-Ready 4 🎮 🎮",
-      "content": "vless://627d5542-37e4-4fd8-af17-b3cd00d3751b@rd-v-1.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-5 TRUE FB Gaming-Ready 5 🎮 🎮",
-      "content": "vless://627d5542-37e4-4fd8-af17-b3cd00d3751b@rd-v-2.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
     },
     {
       "name": "TH AIS-AisPlay 1-Ready 🟢",
@@ -58,7 +50,7 @@
     },
     {
       "name": "TH-1 TRUE เรียนฟรี [VROOM] 4-Ready 📔📝",
-      "content": "vless://13770a86-fe09-4c02-9e24-b4d0d70ceb4f@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-1.misternut.uk&path=%2Fray"
+      "content": "vless://60bf0d94-3a55-46f4-af32-a92bb335281d@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-1.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH-1 TRUE เรียนฟรี [VROOM] 5-Ready 📔📝",
