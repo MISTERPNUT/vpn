@@ -1,5 +1,5 @@
 {
-  "version": 3.12,
+  "version": 3.13,
   "message": "Up Date App
 🌟 โปรเสริมสำหรับเล่น VPN 🌟
 🎁โปรTrue Viber 4Mbps กดสมัคร *900*3809*17042288# 30วัน/49บาท โปรTrue เรียนฟรี 10Mbpsกด *900*8234#81บาท 30วัน",
@@ -18,23 +18,23 @@
     },
     {
       "name": "TH AIS-AisPlay 1-Ready 🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 2-Ready 🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 3-Ready 🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 4-Ready 🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@rd-v-1.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@rd-v-1.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-AisPlay 5-Ready 🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@rd-v-2.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@rd-v-2.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
       "name": "TH-1 TRUE เรียนฟรี [VROOM] 1-Ready 📔📝",
@@ -58,23 +58,23 @@
     },
     {
       "name": "TH AIS กันรั่ว 1-Ready 🟢🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@www.opensignal.com.true-16.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@www.opensignal.com.true-16.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
     },
     {
       "name": "TH AIS กันรั่ว 2-Ready 🟢🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@www.opensignal.com.true-8.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@www.opensignal.com.true-8.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
     },
     {
       "name": "TH AIS กันรั่ว 3-Ready 🟢🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@www.opensignal.com.readyidc-4.misterpnut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@www.opensignal.com.readyidc-4.misterpnut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
     },
     {
       "name": "TH AIS กันรั่ว 4-Ready 🟢🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@rd-v-1.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@rd-v-1.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
     },
     {
       "name": "TH AIS กันรั่ว 5-Ready 🟢🟢",
-      "content": "vless://186d5a2d-f367-4e26-b2c7-6e5d69c1dcf7@rd-v-2.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf902@rd-v-2.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
     }
   ]
 }
