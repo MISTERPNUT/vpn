@@ -1,5 +1,5 @@
 {
-  "version": 3.18,
+  "version": 3.19,
   "message": "Up Date App
 🌟 โปรสำหรับเล่น VPN 🌟
 🎁 AISโปรเน็ตกันรั่ว128K กด*777*7068# 30วัน 33 บาท โปรTrue เรียนฟรี 10Mbpsกด *900*8234# 30วัน 81บาท",
@@ -37,6 +37,10 @@
       "content": "vless://cc10e5b5-711f-456d-882a-690c850cf999@rd-v-2.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     },
     {
+      "name": "TH AIS-AisPlay 6-Ready 🟢",
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf999@rd-v-3.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    },
+    {
       "name": "TH-1 TRUE เรียนฟรี [VROOM] 1-Ready 📔📝",
       "content": "vless://99f1818b-bd2d-4c48-97a4-51dcc5d95b23@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
     },
@@ -55,6 +59,10 @@
     {
       "name": "TH-1 TRUE เรียนฟรี [VROOM] 5-Ready 📔📝",
       "content": "vless://99f1818b-bd2d-4c48-97a4-51dcc5d95b23@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-2.misternut.uk&path=%2Fray"
+    },
+    {
+      "name": "TH-1 TRUE เรียนฟรี [VROOM] 5-Ready 📔📝",
+      "content": "vless://99f1818b-bd2d-4c48-97a4-51dcc5d95b23@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-3.misternut.uk&path=%2Fray"
     },
     {
       "name": "TH AIS กันรั่ว 1-Ready 🟢🟢",
