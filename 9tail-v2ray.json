@@ -1,5 +1,5 @@
 {
-  "version": 3.24,
+  "version": 3.25,
   "message": "Up Date App
 🌟 โปรสำหรับเล่น VPN 🌟
 🎁 AISโปรเน็ตกันรั่ว128K กด*777*7068# 30วัน 33 บาท โปรTrue เรียนฟรี 10Mbpsกด *900*8234# 30วัน 81บาท",
@@ -83,6 +83,10 @@
     {
       "name": "TH AIS กันรั่ว 5-Ready 🟢🟢",
       "content": "vless://cc10e5b5-711f-456d-882a-690c850cf996@rd-v-2.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+    },
+    {
+      "name": "TH AIS กันรั่ว 6-Ready 🟢🟢",
+      "content": "vless://cc10e5b5-711f-456d-882a-690c850cf996@rd-v-3.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
     }
   ]
 }
